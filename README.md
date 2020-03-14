@@ -1,2 +1,2 @@
 # Projetos Data Science 
-Portifólio de projetos de Data Science. 
+Portifólio de projetos open sources de Data Science e Análise de dados. 
