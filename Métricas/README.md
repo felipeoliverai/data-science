@@ -1,2 +1,3 @@
 # Métricas de Machine Learning
-### Aprendizado Supervisionado. 
+### Estudo sobre as métricas de Machine learning aplicado a duas categorias
+### Aprendizado Supervisionado | Aprendizado Não Supervisionado. 
