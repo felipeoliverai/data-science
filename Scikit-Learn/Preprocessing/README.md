@@ -1,5 +1,6 @@
 ## Pre-processing
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spaghettiml.com%2F2017%2F09%2F29%2Fstochastic-gradient-descent-in-python-con-sci-kit%2F&psig=AOvVaw32YRV3nSadYTIDKiH6jfi7&ust=1586883063654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC305zu5egCFQAAAAAdAAAAABAH)
 
 #### Pré-processamento de dados utilizando o módulo Preprocessing do Scikit-learn.
 O sklearn.preprocessing pacote fornece várias funções utilitárias comuns e classes de transformadores para alterar vetores de recursos brutos em uma representação mais adequada para os estimadores a jusante.
