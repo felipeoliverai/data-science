@@ -1,6 +1,5 @@
 ## Pre-processing
-
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fpreprocessing-with-sklearn-a-complete-and-comprehensive-guide-670cb98fcfb9&psig=AOvVaw32YRV3nSadYTIDKiH6jfi7&ust=1586883063654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMC305zu5egCFQAAAAAdAAAAABAD)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 #### Pré-processamento de dados utilizando o módulo Preprocessing do Scikit-learn.
 O sklearn.preprocessing pacote fornece várias funções utilitárias comuns e classes de transformadores para alterar vetores de recursos brutos em uma representação mais adequada para os estimadores a jusante.
