@@ -1,4 +1,5 @@
-### SVM 
+## SVM
+<hr>
 
 Detailed study of the SVM algorithm
 
