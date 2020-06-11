@@ -5,7 +5,7 @@ A guide on the main resampling techniques for unbalanced data, a frequent proble
 
 Content:
 
-#### OvermSampling
+#### OverSampling
 
 * RandomOverSampler
 * SMOTE
