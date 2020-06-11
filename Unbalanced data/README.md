@@ -1,3 +1,4 @@
+
 ## Unbalanced data
 <hr>
 
@@ -21,6 +22,7 @@ Content:
 
 
 The dataset used to apply the techniques, are related to a credit card fraud detection problem, with extremely unbalanced data.
+
 
 
 
