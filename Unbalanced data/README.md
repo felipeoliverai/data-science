@@ -4,6 +4,8 @@
 
 A guide on the main resampling techniques for unbalanced data, a frequent problem in Machine learning is class unbalance, an evil that impairs the performance of models, unbalanced classes is a noise in classification tasks.
 <br>
+<br>
+
 
 
 
