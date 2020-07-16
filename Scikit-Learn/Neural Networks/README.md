@@ -3,6 +3,7 @@
 
 Studies on multilayered Perceptron applied classification and regression tasks.
 
+<br>
 
 
-![alt text](https://s3.amazonaws.com/stackabuse/media/intro-to-neural-networks-scikit-learn-3.png)
+![alt text](https://3.bp.blogspot.com/-VJBtZGPaEdw/VhsaKvfOgOI/AAAAAAAAAeg/rD0JKoKExy0/s1600/Screen%2BShot%2B2014-12-19%2Bat%2B12.05.20%2BPM.png)
