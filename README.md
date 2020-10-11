@@ -1,6 +1,4 @@
-# Data Science Projects
+### Data Science Guide
 <hr>
 
-open source projects for Data Science and Data Analysis.
-
-![alt text](https://www.cetax.com.br/blog/wp-content/uploads/2017/01/data-science.png)
+open source materials about for Data Science and Data Analysis.
